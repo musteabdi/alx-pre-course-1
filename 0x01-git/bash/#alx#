@@ -1,0 +1,18 @@
+#!/bin/bash
+Echo “ALX”
+#!/bin/bash
+Echo “school”
+git add .
+git commit -m ‘Starting to code today,so cool’
+git push
+git checkout -b update_script
+touch bash/98
+emacs bash/alx
+#!/bin/bash
+Echo “ALX School”
+#!/bin/bash
+echo “The school is open!”
+git add .
+git commit -m ‘My personal work’
+git push -u origin update_script
+git checkout master
